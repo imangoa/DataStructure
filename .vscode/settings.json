@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.defaultLanguage": "cpp",
+    "files.associations": {
+        "vector": "cpp",
+        "stack.h": "c",
+        "istream": "c",
+        "streambuf": "c"
+    }
+}
