@@ -40,7 +40,7 @@ void dijkstra(PGraph G, int vs, int prev[], int dist[])
     {
         flag[i]=0;
         prev[i]=0;
-        dist[i]=G->matrix[v][i];
+        dist[i]=G->matrix[vs][i];
     }
     flag[vs]=1;
     dist[vs]=0;

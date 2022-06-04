@@ -5,6 +5,7 @@
         "vector": "cpp",
         "stack.h": "c",
         "istream": "c",
-        "streambuf": "c"
+        "streambuf": "c",
+        "queue.h": "c"
     }
 }

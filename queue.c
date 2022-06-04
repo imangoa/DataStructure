@@ -15,7 +15,7 @@ Queue* initQueue()
     return queue;
 }
 
-void* enQueue(Queue*q,int data)
+void enQueue(Queue*q,int data)
 {
     if (q->front==NULL)
     {

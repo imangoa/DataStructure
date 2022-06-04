@@ -39,13 +39,14 @@ void BubbleSort(int A[],int n)
                 swap(A[j-1],A[j]);
                 flag =true;
             }
-            if (flag=false)
-            {
-                return ;
-            }
-            
             
         }
+        if (flag=false)
+        {
+            return ;
+        }
+            
+        
     }
     
 }
